@@ -64,5 +64,6 @@ int main()
         outfile << emp.toString() << endl;
     }
 
+    cout << "Hello, world!";
     return 0;
 }
